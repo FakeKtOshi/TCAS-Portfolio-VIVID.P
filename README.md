@@ -5,6 +5,6 @@
 note: This repo collects works, certificates, and additional details besides the Portfolio.
 
 ## เลือกภาษา (Select language)
-[ภาษาไทย]()
+[ภาษาไทย](thai.md)
 
 [English]()
