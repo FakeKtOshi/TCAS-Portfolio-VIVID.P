@@ -10,3 +10,5 @@ Heart Disease Health Care (HDHC) Application
 - เพื่อสร้างแอปพลิเคชันในการทราบปัจจัยเสี่ยงในการเกิดโรคหลอดเลือดหัวใจ 
 - เพื่อลดพฤติกรรมที่ก่อให้เกิดโรคหลอดเลือดหัวใจ 
 - เพื่อทราบอาการและข้อควรระวังในการป้องกันการเกิดโรคหลอดเลือดหัวใจ
+
+[< Go back](https://github.com/aimbcc170/TCAS-Portfolio-VIVID.P/blob/main/thai.md#%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%9A%E0%B8%B1%E0%B8%8D)
